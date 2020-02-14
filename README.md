@@ -20,3 +20,5 @@ sharded algorithm pitfall
 byzantine horse synchronization
 concurrent recovery synchronization
 ```
+
+throw these into your casual conversations to boost your intelligence and impress dist sys experts

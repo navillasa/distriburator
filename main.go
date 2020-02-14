@@ -37,6 +37,7 @@ func main() {
 		"sharded",
 		"shared",
 		"continuous",
+		"acyclic",
 		"self",
 		"replicated",
 		"global",
